@@ -1,19 +1,19 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/abemedia/stagelint/releases/download/v0.1.6/stagelint-0.1.6-x86_64-pc-windows-gnu.zip",
+            "url": "https://github.com/abemedia/stagelint/releases/download/v0.1.7/stagelint-0.1.7-x86_64-pc-windows-gnu.zip",
             "bin": [
                 "stagelint.exe"
             ],
-            "hash": "0707cc8f7f3b12df2fb1a386d390a8ca93f6a1300b8b877759bcaf2f8f920df6"
+            "hash": "041b5aeea6137e7f112cd47ee29685f2448feca639f1ed720c33ca187b33f918"
         },
         "arm64": {
-            "url": "https://github.com/abemedia/stagelint/releases/download/v0.1.6/stagelint-0.1.6-aarch64-pc-windows-gnullvm.zip",
+            "url": "https://github.com/abemedia/stagelint/releases/download/v0.1.7/stagelint-0.1.7-aarch64-pc-windows-gnullvm.zip",
             "bin": [
                 "stagelint.exe"
             ],
-            "hash": "d58c42e82e4562959fea098bb116a326d6393067daf6bdfd7c94db807cd316d5"
+            "hash": "ad41b27abface9e51259e2664f319d5b50c122399c2482a7ad7e053b57724318"
         }
     },
     "homepage": "https://stagelint.dev",
